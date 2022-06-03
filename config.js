@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'vì quốc là người mà em yêu nhất nhà nha <33333333',
     mess: 'hì quốc biết mà 🥰. Yêu thương vợ nhiều nhiều 😘😘',
     messDesc: 'Tấm ơi,làm vợ tuii nhaaa ,,trả lời thật lòng nhá.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lunn.yêu anh <3',
     messLink: 'https://www.facebook.com/tieuho155' //
 }
